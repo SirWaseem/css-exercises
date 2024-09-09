@@ -1,19 +1,19 @@
 /* using class and ID selectors for styling.*/
-p {
+.odd {
     background-color: lightcoral;
     font-family: "Verdana", sans-serif;
 }
 
-#line2 {
+#ele2 {
     font-size: 36;
     color: blue;
 }
 
-#line3 {
+#ele3 {
     font-size: 24;
 }
 
-#line4 {
+#ele4 {
     font-size: 24;
     background-color: lightgreen;
     font-weight: bold;
