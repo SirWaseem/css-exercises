@@ -9,11 +9,12 @@ p {
     color: blue;
 }
 
-#line4 {
+#line3 {
     font-size: 24;
 }
 
-#line5 {
+#line4 {
     font-size: 24;
     background-color: lightgreen;
+    font-weight: bold;
 }
