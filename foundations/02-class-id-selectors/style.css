@@ -3,3 +3,8 @@ p {
     background-color: lightcoral;
     font-family: "Verdana", sans-serif;
 }
+
+#line2 {
+    font-size: 36;
+    color: blue;
+}
