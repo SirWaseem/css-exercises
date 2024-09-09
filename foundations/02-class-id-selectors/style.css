@@ -1,7 +1,7 @@
 /* using class and ID selectors for styling.*/
 .odd {
     background-color: lightcoral;
-    font-family: "Verdana", sans-serif;
+    font-family: verdana,"Times New Roman", sans-serif;
 }
 
 #ele2 {
@@ -9,12 +9,11 @@
     color: blue;
 }
 
-#ele3 {
+#adjust-font {
     font-size: 24;
 }
 
 #ele4 {
-    font-size: 24;
     background-color: lightgreen;
     font-weight: bold;
 }
