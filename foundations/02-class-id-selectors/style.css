@@ -1,0 +1,5 @@
+/* using class and ID selectors for styling.*/
+p {
+    background-color: lightcoral;
+    font-family: "Verdana", sans-serif;
+}
