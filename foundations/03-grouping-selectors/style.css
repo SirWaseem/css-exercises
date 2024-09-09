@@ -1,9 +1,14 @@
-.fontset {
+.lose
+.choose {
     font-size: 28;
-    font-family: Helvetica, Times New Roman, sans-serif;
+    font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
-.click {
-    background-color: black;
-    color: white;
+.choose {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.lose {
+    background-color: #ffff00;
 }
